@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+- 📫 How to reach me:
 <a href="https://twitter.com/rajadilipkolli">
   <img alt="Raja's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
@@ -28,6 +29,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+- 🔭 I’m currently working on Java, Spring Boot, Spring Cloud
+- 🌱 I’m currently learning Quarkus, Kubernates
 - 💻  I’m exploring Quarkus, Kubernetes and GitOps
 - 💬  Ask me about Java, SpringBoot, Docker or any tech related stuff.
 
