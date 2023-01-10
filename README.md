@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajadilipkolli&theme=light&count_private=true&layout=compact" alt="Raja's most used languages" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rajadilipkolli&show_icons=true&theme=vue&hide_title=true&count_private=true" alt="Raja's github stats"/>
-<img width="50%" style="margin:20px 0;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajadilipkolli&" alt="rajadilipkolli" />
+<table border='0' class='none' >
+    <tr align="center">
+        <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rajadilipkolli&show_icons=true&count_private=true&theme=tokyonight"></a></td>
+        <td><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajadilipkolli&theme=tokyonight"></a></td>
+    </tr>
+</table>
