@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 🔭 I’m currently working on Java, Spring Boot, Spring Cloud
-- 🌱 I’m currently learning Quarkus, Kubernates
+- 🌱 I’m currently learning Quarkus, Micronaut, Kubernates
 - 💻  I’m exploring Quarkus, Kubernetes and GitOps
 - 💬  Ask me about Java, SpringBoot, Docker or any tech related stuff.
 
